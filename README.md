@@ -27,7 +27,8 @@ _프론트도 백엔드도 재밌게 만드는 풀스택 개발자_
   <br/>_Bored by routine — always hunting for a better, more efficient way than yesterday's_
 - 🌱 Android·C++로 개발을 시작해 지금은 **웹·모바일 풀스택**으로 만들고 있어요
   <br/>_Started with Android & C++, now building full-stack across web & mobile_
-- 🤖 요즘 재미: **LLM·에이전트 도구를 직접 만들어** 개발 워크플로우에 녹이는 것
+- 🤖 요즘 재미: **Claude Code로 에이전틱 엔지니어링**을 하며, 거기서 생긴 불편을 도구로 직접 만들어 푸는 것
+  <br/>_These days: agentic engineering with Claude Code, and building the tools it turns out I need_
 
 <br/>
 
@@ -40,8 +41,12 @@ _프론트도 백엔드도 재밌게 만드는 풀스택 개발자_
   <br/>_Real, running web services — from front to back_
 - 🛠️ 사용자용 서비스뿐 아니라 **내부 운영 어드민**도 많이 만들어봤어요 — 데이터를 다루기 편한 도구를 짜는 걸 좋아해요
   <br/>_Not just user-facing apps — plenty of internal admin tools too_
-- 🧰 손이 자주 가는 일을 줄이려고 개발 도구를 직접 만들어요 — 최근엔 `muxa` 같은 것도
-  <br/>_I build my own dev tools to cut repetitive work — recently things like muxa_
+- 🧰 에이전트와 일하며 필요한 도구를 직접 만들어요
+  <br/>_I build the tools I need for working with coding agents_
+  - 🧜 [ursula-diagram](https://github.com/yjun1806/ursula-diagram): Mermaid 글을 SVG와 터미널 글자 그림으로 그리는 다이어그램 엔진
+  - 🌿 [GitBaro](https://github.com/yjun1806/GitBaro): 에이전트가 여러 워크트리에서 바꾼 것을 검토하는 macOS Git 클라이언트
+  - 🖥️ [muxa](https://github.com/yjun1806/muxa): 문서 뷰어와 diff가 붙은 macOS 에이전트 터미널
+  - 🧭 [waymark](https://github.com/yjun1806/waymark): 문서 기반 개발 규약, Claude Code 플러그인
 - 🤝 도구를 넘어 **팀이 더 잘 일하는 방식**도 고민 중이에요 — 작업 방식을 개선하는 방법론을 실험하며
   <br/>_Beyond tools, exploring methodologies to help the team work better_
 
@@ -51,8 +56,6 @@ _프론트도 백엔드도 재밌게 만드는 풀스택 개발자_
   Tech Stack · 기술 스택
 ────────────────────────────────────────────── -->
 ### 🛠 Tech Stack
-
-<!-- 취사선택하세요: 깊게 다룬 것만 남기고, 스쳐간 건 빼도 됩니다 -->
 
 **Frontend**
 
@@ -89,10 +92,14 @@ _프론트도 백엔드도 재밌게 만드는 풀스택 개발자_
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
+**AI**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
 <br/>
 
 <!-- ─────────────────────────────────────────────
-  Contact · 연락처  (원하는 것만 남기고 나머지는 삭제)
+  Contact · 연락처
 ────────────────────────────────────────────── -->
 ### 📫 Contact
 
